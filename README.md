@@ -49,5 +49,8 @@
  Name:DHANUMALYA D
  Register Number:212222230030
 ```
+## OUTPUT:
+![WhatsApp Image 2023-06-07 at 2 22 32 PM](https://github.com/Dhanudhanaraj/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/119218812/e2fb199b-1cd7-4ecc-a369-4b70739874cf)
+
 ## RESULT:
 ###   Thus a prototype of the given part model is developed using 3D Printer.
